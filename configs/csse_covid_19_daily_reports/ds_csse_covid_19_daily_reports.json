@@ -18,7 +18,7 @@
     },
     "s3_connection_id": "S3_CONN_ID",
     "snowflake_connection_id": "SNOWFLAKE_CONN_ID",
-    "start_date": "2024,12,17",
-    "load_historical_data": false,
-    "schedule_interval": null
+    "start_date": "2021,1,1",
+    "load_historical_data": true,
+    "schedule_interval": "0 23 * * 1-5"
 }

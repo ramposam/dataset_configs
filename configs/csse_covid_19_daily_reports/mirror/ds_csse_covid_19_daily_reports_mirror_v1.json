@@ -37,7 +37,7 @@
         "INCIDENT_RATE": "STRING",
         "CASE_FATALITY_RATIO": "STRING"
     },
-    "file_name_pattern": "{file_date_pattern}.csv",
+    "file_name_pattern": "datetime_pattern.csv",
     "file_path": "/datasets/csse_covid_19_daily_reports",
-    "file_date_pattern": "DD-MM-YYYY"
+    "datetime_pattern": "MM-DD-YYYY"
 }
